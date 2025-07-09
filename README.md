@@ -3,6 +3,8 @@
 An AI-powered chatbot (Donna) that can help you log meetings, add notes to meetings, and chat using OpenAI.  
 Built with React, Express and OpenAI GPT API.
 
+![Homepage Screenshot](public/DonnaBusinessMeetings.png)
+
 ---
 
 ## 🚀 Getting Started
